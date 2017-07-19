@@ -49,7 +49,7 @@ Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est 
 
 ### Code
 
-Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Pygments. Longer lines will automatically scroll horizontally when needed.
+Inline code is avaable with the `<code>` element. Snippets of multiple lines of code are supported through Pygments. Longer lines will automatically scroll horizontally when needed.
 
 {% highlight js %}
 // Example can be run directly in your JavaScript console
