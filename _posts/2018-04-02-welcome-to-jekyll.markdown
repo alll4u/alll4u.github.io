@@ -7,4 +7,4 @@ categories: jekyllxxxx update
 dddddddd
 测试下支持中文不
 测试下支持图片吗？
-![有帮助的截图]({{ site.url }}/assets/home.jpg)
+![有帮助的截图]({{ site.url }}/assets/home.jpeg)
