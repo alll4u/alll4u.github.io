@@ -19,6 +19,7 @@ description: Dinge von Hand gemacht.
 O(N^2)，O(nlogn)的算法，都是Dynamic Programming问题，这是后者的额外数组恰好是有序的，可通过二分查找来确定更新位置。算法细节可以通过服用视频及LeetCode题解获取。
 
 * O(n^2)算法 C++ Code
+
 ```
 int lengthOfLIS(vector<int>& nums) {
         int result=0;
@@ -39,7 +40,9 @@ int lengthOfLIS(vector<int>& nums) {
         return result;
     }
 ```
+
 * O(nlogn)算法 Java Code
+
 ```
 public int lengthOfLIS(int[] nums) {
     int[] tails = new int[nums.length];
