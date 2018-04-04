@@ -8,9 +8,66 @@
 		
 			
 			<item>
+				<title>计算机系统中常用的数据结构</title>
+				
+					<description>&lt;h1&gt;#&lt;/h1&gt;
+</description>
+				
+				<pubDate>Wed, 04 Apr 2018 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/most-used-data-structure</link>
+				<guid isPermaLink="true">http://localhost:4000/most-used-data-structure</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Unix Inter Process Communication</title>
+				
+					<description>&lt;h2 id=&quot;unix进程通信的几种方式&quot;&gt;Unix进程通信的几种方式&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;信号&lt;/li&gt;
+  &lt;li&gt;进程追踪，父进程可以控制其子进程的运行，读取子进程的数据&lt;/li&gt;
+  &lt;li&gt;文件，可能耗尽文件系统&lt;/li&gt;
+  &lt;li&gt;信号量，使用空文件&lt;/li&gt;
+  &lt;li&gt;管道&lt;/li&gt;
+  &lt;li&gt;命名管道&lt;/li&gt;
+  &lt;li&gt;文件锁&lt;/li&gt;
+  &lt;li&gt;消息，信息队列&lt;/li&gt;
+  &lt;li&gt;共享存储器&lt;/li&gt;
+  &lt;li&gt;套接字，最好的（bind, connect, accept)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				
+				<pubDate>Wed, 04 Apr 2018 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/IPC</link>
+				<guid isPermaLink="true">http://localhost:4000/IPC</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>STL源码 allocator</title>
+				
+					<description>&lt;h2 id=&quot;allocator的意义&quot;&gt;Allocator的意义&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;以STL的运用角度而言，空间配置器是最不需要介绍的东西，它总是隐藏在一切组件（更强具体的说是指容器，container）的背后默默工作，默默付出。但若以STL的实现角度而言，第一个需要介绍的就是空间配置器，因为整个STL的操作对象（所有的数值）都存放在容器之内，而容器一定需要配置空间以置放资料。不限掌握空间配置器的原理&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+				
+				<pubDate>Mon, 02 Apr 2018 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90</link>
+				<guid isPermaLink="true">http://localhost:4000/STL%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>LeetCode 300. Longest Increasing Subsequence</title>
 				
 					<description>&lt;p&gt;看了一个动态规划的题&lt;a href=&quot;https://leetcode.com/problems/longest-increasing-subsequence/description/&quot;&gt;Longest Increasing Subsequence&lt;/a&gt;&lt;/p&gt;
+
 </description>
 				
 				<pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
@@ -24,6 +81,7 @@
 				<title>旅程开始</title>
 				
 					<description>&lt;p&gt;无论做什么，我总是开了一个有一个头，但却从未完整做过一件。&lt;/p&gt;
+
 </description>
 				
 				<pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
@@ -36,9 +94,9 @@
 			<item>
 				<title>“中国传统色”应用使用帮助</title>
 				
-					<description>&lt;h2&gt;这是个什么应用？&lt;/h2&gt;
-
+					<description>&lt;h2 id=&quot;这是个什么应用&quot;&gt;这是个什么应用？&lt;/h2&gt;
 &lt;p&gt;“中国传统色”是一个色谱/色卡应用。&lt;/p&gt;
+
 </description>
 				
 				<pubDate>Tue, 26 Jan 2016 00:00:00 +0800</pubDate>
