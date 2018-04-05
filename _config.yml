@@ -3,7 +3,7 @@ auto: true
 highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
-
+markdown: Kramdown
 name: Jeffrey's Blog”
 title: Jeffrey's blog
 description: Everything about Jeffrey.
